@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header nav li a {
+    color: #d0d0d0;
+    border: 1px solid #353535;
+    background: linear_gradient(#93bd20, #659e10);
+    background-color: #8f553696;
+}

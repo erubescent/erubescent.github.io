@@ -1,3 +1,3 @@
-# lmao, what is this?
+# what is this?
 
 site files for my github page. 🌃
